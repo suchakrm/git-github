@@ -1,0 +1,1 @@
+test7 file for myownbranch of Git
